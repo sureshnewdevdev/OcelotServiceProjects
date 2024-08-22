@@ -1,0 +1,109 @@
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.staticwebassets.runtime.json
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Ocelot.Provider.Polly.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Polly.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Polly.Extensions.Http.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.RazorAssemblyInfo.cache
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.RazorAssemblyInfo.cs
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\scopedcss\projectbundle\ApiGateway.bundle.scp.css
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CopyComplete
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\refint\ApiGateway.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Downloads\LearningPoint-master\LearningPoint-master\Microservices\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ocelot.json
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.staticwebassets.runtime.json
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.Http.Polly.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Ocelot.Provider.Polly.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Polly.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Polly.Extensions.Http.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.RazorAssemblyInfo.cache
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.RazorAssemblyInfo.cs
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGateway.props
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\scopedcss\projectbundle\ApiGateway.bundle.scp.css
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.Up2Date
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\refint\ApiGateway.dll
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+C:\MicroServiceSource\MicroservicesBasics-main (2)\MicroservicesBasics-main\AuthenticationDemo\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
